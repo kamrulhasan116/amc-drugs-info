@@ -1,0 +1,19 @@
+.header-container nav {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+   
+    line-height: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    /* position: fixed; */
+}
+/* .header-container nav {
+    text-decoration: none;
+} */
+/* 
+nav input {
+    background-color: black;
+    color: white;
+    
+} */

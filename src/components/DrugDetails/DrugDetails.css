@@ -1,0 +1,11 @@
+ .button-all{
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    height: 80px;
+}
+.button-all button {
+    margin-left: 7px;
+    margin-right: auto;
+    border-radius: 10px;
+}
